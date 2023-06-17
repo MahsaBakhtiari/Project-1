@@ -39,7 +39,7 @@ To achieve a comprehensive analysis, this project examines the changes in GDP th
    - Zillow: Zillow data is used to assess the housing market, including home prices, sales, and rental prices. This data is collected at the state and regional levels.
    
 2. Time Period Selection:
-   - Pre-Pandemic Period: The pre-pandemic period is defined as the median data from 2017 and 2018. This baseline provides a reference point for comparison.
+   - Pre-Pandemic Period: The pre-pandemic period is defined as the median data from 2017,2018 and 2019. This baseline provides a reference point for comparison.
    - Pandemic Period: The pandemic period data is obtained from the median data of 2020 and 2021. This allows for an analysis of the economic impact of the pandemic.
    - Post-Pandemic Period: The post-pandemic data is collected from the data of 2022. This period represents the recovery phase following the pandemic.
    
@@ -57,8 +57,6 @@ To achieve a comprehensive analysis, this project examines the changes in GDP th
 
 ### 3.4.1
 
-Averge GDP per State
-
 ![3.4.1](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_1.png)
 
 The GDP of California, Texas, New York, and Florida stands out significantly higher compared to the rest of the states, with California leading, followed by Texas, New York, and Florida.
@@ -66,8 +64,6 @@ The GDP of California, Texas, New York, and Florida stands out significantly hig
 ---
 
 ### 3.4.2
-
-GDP change pre pandamic to pandamic
 
 ![3.4.2](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_2.png)
 
@@ -77,8 +73,6 @@ The change in GDP from the pre-pandemic to the pandemic exhibits diverse pattern
 
 ### 3.4.3
 
-GDP change pandamic to post pandamic
-
 ![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
 
 Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
@@ -86,8 +80,6 @@ Overall, there has been an improvement in GDP change from the pre-pandemic perio
 ---
 
 ### 3.4.4
-
-Regional change of GPD 
 
 ![3.4.4](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_Reginal_Change.png)
 
@@ -97,8 +89,6 @@ The regions exhibit consistent GDP changes over the years.
 
 ### 3.4.5
 
-Average employment per state
-
 ![3.4.5](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Employment_1.png)
 
 Certain states, notably California, Texas, Florida, and New York exhibit significantly higher average employment compared to other states.
@@ -106,8 +96,6 @@ Certain states, notably California, Texas, Florida, and New York exhibit signifi
 ---
 
 ### 3.4.6
-
-Employment change pre pandemic to pandemic
 
 ![3.4.6](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Emplotment_2.png)
 
@@ -117,81 +105,65 @@ Employment change pre pandemic to pandemic
 
 ### 3.4.7
 
-Employment change from pandemic to post-pandemic
+![3.4.7](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Emploiment_3.png)
 
-![3.4.7](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
-
-Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+Positive employment change post-pandemic, particularly in Nebraska, with significant improvement from the previous period.
 
 ---
 
 ### 3.4.8
 
-GDP change pandamic to post pandamic
+![3.4.8](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Emplotment_Regional_Change.png)
 
-![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
-
-Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+Consistent employment change across regions over the years.
 
 ---
 
 ### 3.4.9
 
-GDP change pandamic to post pandamic
+![3.4.9](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Personal_Income1.png)
 
-![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
-
-Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+Significantly higher personal income in California, Texas, New York, and Florida compared to other states.
 
 ---
 
 ### 3.4.10
 
-GDP change pandamic to post pandamic
+![3.4.10](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Personal_Income2.png)
 
-![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
-
-Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+Overall, in the pandemic, there is a slight positive change in personal income (~0.1) across all states, with slightly higher increases observed in Utah, Arizona, Idaho, and South Dakota.
 
 ---
 
 ### 3.4.11
 
-GDP change pandamic to post pandamic
+![3.4.11](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Personal_Income3.png)
 
-![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
-
-Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+Post-pandemic, personal income shows a slight overall positive change of less than ~0.1 in all states.
 
 ---
 
 ### 3.4.12
 
-GDP change pandamic to post pandamic
+![3.4.12](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Personal_Income_Regional_change.png)
 
-![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
-
-Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+The regional differences in changes from pandemic to pandemic and post-pandemic are minimal, with variations of less than 0.04, indicating consistent behavior across the regions.
 
 ---
 
 ### 3.4.13
 
-GDP change pandamic to post pandamic
+![3.4.13](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Home_Value1.png)
 
-![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
-
-Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+There are significant differences in house values between states, with California and Hawaii leading in higher values compared to others.
 
 ---
 
 ### 3.4.14
 
-GDP change pandamic to post pandamic
+![3.4.14](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Home_Value2.png)
 
-![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
-
-Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+Home values have notably increased, particularly in Idaho, with a change of over 0.3 from pre-pandemic to the pandemic.
 
 ---
 
@@ -199,25 +171,20 @@ Overall, there has been an improvement in GDP change from the pre-pandemic perio
 
 GDP change pandamic to post pandamic
 
-![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
+![3.4.15](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Home_Value3.png)
 
-Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+Positive changes in home values were observed across all states, with higher rates in the post-pandemic period, particularly in Arizona, Kansas, Florida, and Montana (>0.3).
 
 ---
 
 ### 3.4.16
 
-GDP change pandamic to post pandamic
+![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Home_Value_Regional_Change.png)
 
-![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
-
-Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
-
+Home value changes across all regions remained relatively consistent during the pre-pandemic, pandemic, and post-pandemic periods.
 ---
 
 ### 3.4.17
-
-GDP change pandamic to post pandamic
 
 ![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
 
