@@ -59,9 +59,16 @@ To achieve a comprehensive analysis, this project examines the changes in GDP th
 ![3.2.1](https://github.com/Daniel-Wallach/Project-1/blob/main/3.2/Images/Bargraph.png)
 
 ### 3.2.2
+
 ![3.2.2](https://github.com/Daniel-Wallach/Project-1/blob/main/3.2/Images/Linechart.png)
 
+### 3.2.3
 
+![3.2.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.2/Images/Heatmap.png)
+
+### 3.2.4
+
+![3.2.4](
 
 ### 3.4.1
 
