@@ -184,8 +184,6 @@ Home values have notably increased, particularly in Idaho, with a change of over
 
 ### 3.4.15
 
-GDP change pandamic to post pandamic
-
 ![3.4.15](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Home_Value3.png)
 
 Positive changes in home values were observed across all states, with higher rates in the post-pandemic period, particularly in Arizona, Kansas, Florida, and Montana (>0.3).
@@ -204,7 +202,7 @@ Home value changes across all regions remained relatively consistent during the 
 
 ![3.4.17](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Tax_Revenue1.png)
 
-California exhibits significantly higher tax revenue average compared to other states, while Texas and New York show slightly higher values but remain closer to the average of other states.
+California exhibits a significantly higher tax revenue average compared to other states, while Texas and New York show slightly higher values but remain closer to the average of other states.
 
 ---
 
@@ -212,7 +210,7 @@ California exhibits significantly higher tax revenue average compared to other s
 
 ![3.4.18](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Tax_Revenue2.png)
 
-Most states experienced a positive change in tax revenue from pre-pandemic to pandemic, but Alaska, North Dakota, and Wyoming showed a slight decrease of less than 0.3.
+Most states experienced a positive change in tax revenue from pre-pandemic to the pandemic, but Alaska, North Dakota, and Wyoming showed a slight decrease of less than 0.3.
 
 ---
 
@@ -220,7 +218,7 @@ Most states experienced a positive change in tax revenue from pre-pandemic to pa
 
 ![3.4.19](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Tax_Revenue3.png)
 
-The change in tax revenue for all states is positive post-pandemic, with Alaska experiencing a significant increase, more than twice the average change in other states.
+The change in tax revenue for all states is positive post-pandemic, with Alaska experiencing a significant increase, more than twice the average change compared to the last period.
 
 ---
 
