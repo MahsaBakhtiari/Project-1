@@ -197,45 +197,38 @@ Positive changes in home values were observed across all states, with higher rat
 ![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Home_Value_Regional_Change.png)
 
 Home value changes across all regions remained relatively consistent during the pre-pandemic, pandemic, and post-pandemic periods.
+
 ---
 
 ### 3.4.17
 
-![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
+![3.4.17](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Tax_Revenue1.png)
 
-Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+California exhibits significantly higher tax revenue average compared to other states, while Texas and New York show slightly higher values but remain closer to the average of other states.
 
 ---
 
 ### 3.4.18
 
-GDP change pandamic to post pandamic
+![3.4.18](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Tax_Revenue2.png)
 
-![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
-
-Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+Most states experienced a positive change in tax revenue from pre-pandemic to pandemic, but Alaska, North Dakota, and Wyoming showed a slight decrease of less than 0.3.
 
 ---
 
 ### 3.4.19
 
-GDP change pandamic to post pandamic
+![3.4.19](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Tax_Revenue3.png)
 
-![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
-
-Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+The change in tax revenue for all states is positive post-pandemic, with Alaska experiencing a significant increase, more than twice the average change in other states.
 
 ---
 
 ### 3.4.20
 
-GDP change pandamic to post pandamic
+![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Tax_Revenue_Change.png)
 
-![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
-
-Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
-
-
+Prior to the pandemic, all regions exhibited similar changes in tax revenue. However, during the pandemic, the Far West and Rocky Mountain regions experienced significant increases of 40% and 30%, respectively. The Great Lakes, Plains, New England, and Southeast regions showed moderate increases of 15%, while the Mideast and Southwest regions had similar changes with a 10% increase. Post-pandemic, the regions showed much closer changes in tax revenue.
 
 ---
 
