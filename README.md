@@ -54,6 +54,12 @@ To achieve a comprehensive analysis, this project examines the changes in GDP th
    - Change Rate Calculation: The change in the analysis refers to the rate of change from the previous year. It is calculated as the percentage difference between the values of a given year and the previous year. This helps measure the growth or decline of various economic indicators.
 
 ## 3. Analysis and Findings:
-### 3.4: Regional Variations in Economic Impact
-Results:
+   ### 3.4: Regional Variations in Economic Impact
+   Results:
+   - GDP: 
+
+   ![GDP_Average_Plot](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_1.png)
+   
+   The 
+
 
