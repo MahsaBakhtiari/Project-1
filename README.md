@@ -54,6 +54,10 @@ To achieve a comprehensive analysis, this project examines the changes in GDP th
    - Change Rate Calculation: The change in the analysis refers to the rate of change from the previous year. It is calculated as the percentage difference between the values of a given year and the previous year. This helps measure the growth or decline of various economic indicators.
 
 ## 3. Result:
+### 3.2.1
+![3.2.1](https://github.com/Daniel-Wallach/Project-1/blob/main/3.2/Images/Bargraph.png)
+
+
 
 ### 3.4.1
 
