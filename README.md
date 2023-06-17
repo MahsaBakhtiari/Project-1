@@ -53,13 +53,209 @@ To achieve a comprehensive analysis, this project examines the changes in GDP th
 5. Calculating Change:
    - Change Rate Calculation: The change in the analysis refers to the rate of change from the previous year. It is calculated as the percentage difference between the values of a given year and the previous year. This helps measure the growth or decline of various economic indicators.
 
-## 3. Analysis and Findings:
-   ### 3.4: Regional Variations in Economic Impact
-   Results:
-   - GDP: 
+## 3. Result:
 
-   ![GDP_Average_Plot](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_1.png)
-   
-   The 
+### 3.4.1
+
+Averge GDP per State
+
+![3.4.1](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_1.png)
+
+The GDP of California, Texas, New York, and Florida stands out significantly higher compared to the rest of the states, with California leading, followed by Texas, New York, and Florida.
+
+---
+
+### 3.4.2
+
+GDP change pre pandamic to pandamic
+
+![3.4.2](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_2.png)
+
+The change in GDP from the pre-pandemic to the pandemic exhibits diverse patterns, with some states showing positive growth and others experiencing negative growth.
+
+---
+
+### 3.4.3
+
+GDP change pandamic to post pandamic
+
+![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
+
+Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+
+---
+
+### 3.4.4
+
+Regional change of GPD 
+
+![3.4.4](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_Reginal_Change.png)
+
+The regions exhibit consistent GDP changes over the years.
+
+---
+
+### 3.4.5
+
+Average employment per state
+
+![3.4.5](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Employment_1.png)
+
+Certain states, notably California, Texas, Florida, and New York exhibit significantly higher average employment compared to other states.
+
+---
+
+### 3.4.6
+
+Employment change pre pandemic to pandemic
+
+![3.4.6](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/Emplotment_2.png)
+
+ The majority of states experienced negative employment changes from the pre-pandemic period to the pandemic period.
+
+---
+
+### 3.4.7
+
+Employment change from pandemic to post-pandemic
+
+![3.4.7](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
+
+Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+
+---
+
+### 3.4.8
+
+GDP change pandamic to post pandamic
+
+![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
+
+Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+
+---
+
+### 3.4.9
+
+GDP change pandamic to post pandamic
+
+![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
+
+Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+
+---
+
+### 3.4.10
+
+GDP change pandamic to post pandamic
+
+![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
+
+Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+
+---
+
+### 3.4.11
+
+GDP change pandamic to post pandamic
+
+![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
+
+Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+
+---
+
+### 3.4.12
+
+GDP change pandamic to post pandamic
+
+![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
+
+Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+
+---
+
+### 3.4.13
+
+GDP change pandamic to post pandamic
+
+![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
+
+Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+
+---
+
+### 3.4.14
+
+GDP change pandamic to post pandamic
+
+![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
+
+Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+
+---
+
+### 3.4.15
+
+GDP change pandamic to post pandamic
+
+![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
+
+Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+
+---
+
+### 3.4.16
+
+GDP change pandamic to post pandamic
+
+![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
+
+Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+
+---
+
+### 3.4.17
+
+GDP change pandamic to post pandamic
+
+![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
+
+Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+
+---
+
+### 3.4.18
+
+GDP change pandamic to post pandamic
+
+![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
+
+Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+
+---
+
+### 3.4.19
+
+GDP change pandamic to post pandamic
+
+![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
+
+Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+
+---
+
+### 3.4.20
+
+GDP change pandamic to post pandamic
+
+![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
+
+Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+
+
+
+---
+
 
 
