@@ -90,7 +90,7 @@ The change in GDP from the pre-pandemic to the pandemic exhibits diverse pattern
 
 ![3.4.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_3.png)
 
-Overall, there has been an improvement in GDP change from the pre-pandemic period to the pandemic period.
+Overall, there has been an improvement in GDP change from the pandemic period to the post-pandemic period.
 
 ---
 
