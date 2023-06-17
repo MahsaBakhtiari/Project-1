@@ -68,7 +68,7 @@ To achieve a comprehensive analysis, this project examines the changes in GDP th
 
 ### 3.2.4
 
-![3.2.4](
+![3.2.4](https://github.com/Daniel-Wallach/Project-1/blob/main/3.2/Images/BubbleChart.png)
 
 ### 3.4.1
 
