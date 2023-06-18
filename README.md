@@ -76,6 +76,14 @@ The Accomodation and food service sectors were impacted higher than rest of indu
 
 The bubble chart reveals a mixed impact of the pandemic across different industries. Sectors with a higher number of jobs in 2019 exhibited a wide range of percentage changes in gross output, indicating varied levels of resilience and vulnerability to the crisis.
 
+### 3.3.1
+
+As the number of COVID-19 cases and deaths increased, the economy faced significant challenges, resulting in fluctuations in employment and unemployment rates.
+
+During periods of surging COVID-19 cases and deaths, which surged progrossively from March 2020 through May 2022 there was a notable negative impact on the employment rate. Increase in cases is more strongly correlated with increase actual deaths.
+
+From May 2022 onwards, both cases and deaths begin to decrease. The employment and unemployment rate begin to respective increase and decrease from this point, however the however the difference does not return employment to pre-pandemic levels.
+
 ### 3.4.1
 
 ![3.4.1](https://github.com/Daniel-Wallach/Project-1/blob/main/3.4/visualisation/GDP_1.png)
@@ -248,7 +256,11 @@ The analysis of the number of jobs data reveals the substantial impact of the CO
 
 In conclusion, Accommodation and Food Services, and Arts, Entertainment, and Recreation sectors faced significant challenges during the COVID-19 pandemic, while the Health Care and Social Assistance sector showed resilience. The Wholesale Trade and Finance and Insurance sectors experienced minimal impact. These insights highlight the varying degrees of vulnerability and adaptability across different sectors of the economy during the unprecedented crisis.
 
+### 3.3 Impact of Covid-19 Cases and Deaths on Employment Nationally
 
+Many businesses had to implement restrictions and closures to curb the spread of the COVID-19, leading to layoffs and reduced hiring activity. Consequently, the unemployment rate increased during these periods as more individuals were seeking job opportunities but struggled to find employment. As the rate of increase of cases and to a lesser extend deaths slowed, the employment rate improved as businesses resumed operations, restrictions were eased, and hiring activity increased, resulting in a decline in the unemployment rate as more individuals found employment.
+
+Overall, the relationship between COVID-19 cases and deaths and the employment and unemployment rates in the USA demonstrates how the pandemic has had a significant impact on the nation's economy. The fluctuation in employment and unemployment rates reflects the ebb and flow of the pandemic's impact directly, as well as the effect of secondary factors including government and private-sector responses to the rising cases and deaths. This highlights the ongoing struggle to balance public health measures with economic stability.
 
 ## 3.4 Regional Variations in Economic Impact
 
