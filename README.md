@@ -58,7 +58,7 @@ To achieve a comprehensive analysis, this project examines the changes in GDP th
 
 ![3.2.1](https://github.com/Daniel-Wallach/Project-1/blob/main/3.2/Images/Bargraph.png)
 
-The Retail Trade, Accommodation and Food Services, and Arts, Entertainment, and Recreation sectors were the most impacted by the COVID-19 pandemic, experiencing a significant decline in both gross output 
+The Transportation and warehousing, Accommodation and Food Services, and Arts, Entertainment, and Recreation sectors were the most impacted by the COVID-19 pandemic, experiencing a significant decline in both gross output 
 ### 3.2.2
 
 ![3.2.2](https://github.com/Daniel-Wallach/Project-1/blob/main/3.2/Images/Linechart.png)
