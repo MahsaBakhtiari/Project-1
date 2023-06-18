@@ -6,7 +6,7 @@ The COVID-19 pandemic has profoundly impacted the global and United States econo
 ## Table of Contents:
 - Introduction
 - Methodology
-- Analysis and Findings
+- Results and Discussions:
   - 3.1 Impact of COVID-19 on GDP Growth
   - 3.2 Sectoral Performance during the Pandemic
   - 3.3 Correlation between Unemployment Rates and COVID-19 Cases
@@ -228,7 +228,27 @@ The change in tax revenue for all states is positive post-pandemic, with Alaska 
 
 Prior to the pandemic, all regions exhibited similar changes in tax revenue. However, during the pandemic, the Far West and Rocky Mountain regions experienced significant increases of 40% and 30%, respectively. The Great Lakes, Plains, New England, and Southeast regions showed moderate increases of 15%, while the Mideast and Southwest regions had similar changes with a 10% increase. Post-pandemic, the regions showed much closer changes in tax revenue.
 
----
+## 3.4 Discussions:
+
+The provided summary statistics highlight various economic indicators and their changes across different states and economic regions during the pre-pandemic, pandemic, and post-pandemic periods. By examining these findings, it becomes apparent that although the economic effects of COVID-19 varied among states, there are consistent changes at the economic region level.
+
+### GDP Changes
+The summary states that the change in GDP from the pre-pandemic to the pandemic exhibited diverse patterns across states, with some experiencing positive growth and others facing negative growth. However, there has been an overall improvement in GDP change from the pandemic to the post-pandemic period. This suggests that the negative impact of the pandemic on GDP was mitigated in the post-pandemic period. Additionally, the summary mentions that the regions exhibit consistent GDP changes over the years, indicating similar trends and patterns at the regional level.
+
+### Employment Changes
+Moving on to employment changes, it is noted that most states experienced negative employment changes during the pandemic compared to the pre-pandemic period. However, post-pandemic, there was a positive employment change, particularly in Nebraska, with significant improvement from the previous period. Furthermore, the summary mentions consistent employment changes across regions over the years. These findings indicate that although there were differences in employment changes among states during the pandemic, there is a convergence toward positive changes in employment at the regional level.
+
+### Personal Income Changes
+Regarding personal income, the summary states a slight positive change across all states during the pandemic, with slightly higher increases observed in Utah, Arizona, Idaho, and South Dakota. Post-pandemic, personal income shows a slight overall positive change in all states. Although there are variations among states, the summary highlights that the regional differences in changes are minimal, indicating consistent behavior across economic regions.
+
+### Home Value Changes
+When considering home values, it is mentioned that there are significant differences between states, with California and Hawaii leading in higher values. However, there has been an overall increase in home values across all states, particularly in Idaho, during the pandemic. Positive changes in home values were observed in all states, with higher rates in the post-pandemic period, especially in Arizona, Kansas, Florida, and Montana. The summary also points out that home value changes remained relatively consistent across all regions during the pre-pandemic, pandemic, and post-pandemic periods. Therefore, despite variations at the state level, there is consistency in the changes at the regional level.
+
+### Tax Revenue Changes
+Lastly, the tax revenue analysis shows that most states experienced a positive change from the pre-pandemic to the pandemic, with a few exceptions. Post-pandemic, all states exhibit a positive change in tax revenue, with Alaska experiencing a significant increase. The summary also highlights that the changes in tax revenue among regions were similar before the pandemic. However, the Far West and Rocky Mountain regions experienced significant increases during the pandemic, while the Great Lakes, Plains, New England, and Southeast regions showed moderate increases. Post-pandemic, the regions displayed much closer changes in tax revenue. These findings suggest that although there were differences among states during the pandemic, the regional level shows a convergence in tax revenue changes.
+
+In conclusion, based on the provided summary statistics, it can be inferred that although the economic effects of COVID-19 varied among states, there are consistent changes at the economic region level. This indicates that the economic impact of the pandemic had a similar effect on states within the same region, leading to comparable changes in various economic indicators.
+
 
 
 
