@@ -253,7 +253,7 @@ In conclusion, based on the provided summary statistics, it can be inferred that
 
 
 
-**References:**
+## References:
 
 
 * Bureau of Economic Analysis (BEA): [https://www.bea.gov/](https://www.bea.gov/)
