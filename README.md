@@ -253,4 +253,19 @@ In conclusion, based on the provided summary statistics, it can be inferred that
 
 
 
+**References:**
+
+
+* Bureau of Economic Analysis (BEA): [https://www.bea.gov/](https://www.bea.gov/)
+  
+* Bureau of Labor Statistics (BLS): [https://www.bls.gov/](https://www.bls.gov/)
+  
+* National Conference of State Legislatures (NCSL): [https://www.ncsl.org/](https://www.ncsl.org/)
+
+* Census: [https://www.census.gov/](https://www.census.gov/)
+   
+* Zillow: [https://www.zillow.com/research/data/](https://www.zillow.com/research/data/)
+   
+
+
 
