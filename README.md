@@ -68,7 +68,7 @@ The Health Care and Social Assistance sector demonstrated resilience during the 
 
 ![3.2.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.2/Images/Heatmap.png)
 
-The Wholesale Trade and Finance and Insurance sectors were least impacted by the pandemic, as indicated by the relatively lower color intensity on the heatmap. These sectors managed to maintain a stable level of gross output and employment throughout the crisis.
+The Accomodation and food service sectors were impacted higher than rest of industry by the pandemic, as indicated by the relatively higher color intensity on the heatmap. 
 
 ### 3.2.4
 
@@ -244,9 +244,9 @@ The analysis of gross output data reveals the significant impact of the COVID-19
 
 ### Number of Jobs
 
-The analysis of the number of jobs data reveals the substantial impact of the COVID-19 pandemic on employment across industries. Sectors such as Construction, Retail Trade, Transportation and Warehousing, and Accommodation and Food Services experienced a significant decline in the number of jobs during the pandemic, primarily due to widespread closures, reduced consumer demand, and operational limitations. The Arts, Entertainment, and Recreation sector were particularly hard hit, with a sharp decrease in job opportunities. On the other hand, industries like Health Care and Social Assistance demonstrated more resilience, with a relatively stable number of jobs, reflecting the essential nature of these services. The Finance and Insurance sector also showed a relatively positive trend, indicating the importance of financial stability during challenging times. These findings underscore the unequal impact of the pandemic on employment across sectors and emphasize the need for targeted policies and support measures to address job losses and facilitate recovery in the most affected industries.
+The analysis of the number of jobs data reveals the substantial impact of the COVID-19 pandemic on employment across industries. Sectors such as Construction, Transportation and Warehousing, and Accommodation and Food Services experienced a significant decline in the number of jobs during the pandemic, primarily due to widespread closures, reduced consumer demand, and operational limitations. The Arts, Entertainment, and Recreation sector were particularly hard hit, with a sharp decrease in job opportunities. On the other hand, industries like Health Care and Social Assistance demonstrated more resilience, with a relatively stable number of jobs, reflecting the essential nature of these services. The Finance and Insurance sector also showed a relatively positive trend, indicating the importance of financial stability during challenging times. These findings underscore the unequal impact of the pandemic on employment across sectors and emphasize the need for targeted policies and support measures to address job losses and facilitate recovery in the most affected industries.
 
-In conclusion, the Retail Trade, Accommodation and Food Services, and Arts, Entertainment, and Recreation sectors faced significant challenges during the COVID-19 pandemic, while the Health Care and Social Assistance sector showed resilience. The Wholesale Trade and Finance and Insurance sectors experienced minimal impact. These insights highlight the varying degrees of vulnerability and adaptability across different sectors of the economy during the unprecedented crisis.
+In conclusion, Accommodation and Food Services, and Arts, Entertainment, and Recreation sectors faced significant challenges during the COVID-19 pandemic, while the Health Care and Social Assistance sector showed resilience. The Wholesale Trade and Finance and Insurance sectors experienced minimal impact. These insights highlight the varying degrees of vulnerability and adaptability across different sectors of the economy during the unprecedented crisis.
 
 
 
