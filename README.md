@@ -228,7 +228,9 @@ The change in tax revenue for all states is positive post-pandemic, with Alaska 
 
 Prior to the pandemic, all regions exhibited similar changes in tax revenue. However, during the pandemic, the Far West and Rocky Mountain regions experienced significant increases of 40% and 30%, respectively. The Great Lakes, Plains, New England, and Southeast regions showed moderate increases of 15%, while the Mideast and Southwest regions had similar changes with a 10% increase. Post-pandemic, the regions showed much closer changes in tax revenue.
 
-## 3.4 Discussion:
+## Discussion:
+
+## 3.4 Regional Variations in Economic Impact
 
 The provided summary statistics highlight various economic indicators and their changes across different states and economic regions during the pre-pandemic, pandemic, and post-pandemic periods. By examining these findings, it becomes apparent that although the economic effects of COVID-19 varied among states, there are consistent changes at the economic region level.
 
