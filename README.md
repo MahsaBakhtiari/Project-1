@@ -58,17 +58,23 @@ To achieve a comprehensive analysis, this project examines the changes in GDP th
 
 ![3.2.1](https://github.com/Daniel-Wallach/Project-1/blob/main/3.2/Images/Bargraph.png)
 
+The Retail Trade, Accommodation and Food Services, and Arts, Entertainment, and Recreation sectors were the most impacted by the COVID-19 pandemic, experiencing a significant decline in both gross output 
 ### 3.2.2
 
 ![3.2.2](https://github.com/Daniel-Wallach/Project-1/blob/main/3.2/Images/Linechart.png)
 
+The Health Care and Social Assistance sector demonstrated resilience during the pandemic, showing consistent growth in both gross output and the number of jobs over the years. This sector played a crucial role in providing essential services and maintaining employment stability
 ### 3.2.3
 
 ![3.2.3](https://github.com/Daniel-Wallach/Project-1/blob/main/3.2/Images/Heatmap.png)
 
+The Wholesale Trade and Finance and Insurance sectors were least impacted by the pandemic, as indicated by the relatively lower color intensity on the heatmap. These sectors managed to maintain a stable level of gross output and employment throughout the crisis.
+
 ### 3.2.4
 
 ![3.2.4](https://github.com/Daniel-Wallach/Project-1/blob/main/3.2/Images/BubbleChart.png)
+
+The bubble chart reveals a mixed impact of the pandemic across different industries. Sectors with a higher number of jobs in 2019 exhibited a wide range of percentage changes in gross output, indicating varied levels of resilience and vulnerability to the crisis.
 
 ### 3.4.1
 
@@ -229,6 +235,20 @@ The change in tax revenue for all states is positive post-pandemic, with Alaska 
 Prior to the pandemic, all regions exhibited similar changes in tax revenue. However, during the pandemic, the Far West and Rocky Mountain regions experienced significant increases of 40% and 30%, respectively. The Great Lakes, Plains, New England, and Southeast regions showed moderate increases of 15%, while the Mideast and Southwest regions had similar changes with a 10% increase. Post-pandemic, the regions showed much closer changes in tax revenue.
 
 ## Discussion:
+
+## 3.2 Sector wise perfomance during pandemic
+
+### Gross Output
+
+The analysis of gross output data reveals the significant impact of the COVID-19 pandemic on various industries. Sectors such as Construction, Wholesale Trade, Retail Trade, and Transportation and Warehousing experienced a decline in gross output during the pandemic, primarily due to disruptions in supply chains, reduced consumer spending, and business closures. However, there were sectors that demonstrated resilience and even growth in gross output, such as the Finance and Insurance industry. The Health Care and Social Assistance sector remained relatively stable, reflecting the essential nature of these services. These findings highlight the heterogeneous nature of the pandemic's impact on gross output across industries and emphasize the need for tailored strategies to support recovery and future growth in each sector.
+
+### Number of Jobs
+
+The analysis of the number of jobs data reveals the substantial impact of the COVID-19 pandemic on employment across industries. Sectors such as Construction, Retail Trade, Transportation and Warehousing, and Accommodation and Food Services experienced a significant decline in the number of jobs during the pandemic, primarily due to widespread closures, reduced consumer demand, and operational limitations. The Arts, Entertainment, and Recreation sector were particularly hard hit, with a sharp decrease in job opportunities. On the other hand, industries like Health Care and Social Assistance demonstrated more resilience, with a relatively stable number of jobs, reflecting the essential nature of these services. The Finance and Insurance sector also showed a relatively positive trend, indicating the importance of financial stability during challenging times. These findings underscore the unequal impact of the pandemic on employment across sectors and emphasize the need for targeted policies and support measures to address job losses and facilitate recovery in the most affected industries.
+
+In conclusion, the Retail Trade, Accommodation and Food Services, and Arts, Entertainment, and Recreation sectors faced significant challenges during the COVID-19 pandemic, while the Health Care and Social Assistance sector showed resilience. The Wholesale Trade and Finance and Insurance sectors experienced minimal impact. These insights highlight the varying degrees of vulnerability and adaptability across different sectors of the economy during the unprecedented crisis.
+
+
 
 ## 3.4 Regional Variations in Economic Impact
 
