@@ -281,7 +281,7 @@ When considering home values, it is mentioned that there are significant differe
 ### Tax Revenue Changes
 Lastly, the tax revenue analysis shows that most states experienced a positive change from the pre-pandemic to the pandemic, with a few exceptions. Post-pandemic, all states exhibit a positive change in tax revenue, with Alaska experiencing a significant increase. The summary also highlights that the changes in tax revenue among regions were similar before the pandemic. However, the Far West and Rocky Mountain regions experienced significant increases during the pandemic, while the Great Lakes, Plains, New England, and Southeast regions showed moderate increases. Post-pandemic, the regions displayed much closer changes in tax revenue. These findings suggest that although there were differences among states during the pandemic, the regional level shows a convergence in tax revenue changes.
 
-In conclusion, based on the provided summary statistics, it can be inferred that although the economic effects of COVID-19 varied among states, there are consistent changes at the economic region level. This indicates that the economic impact of the pandemic had a similar effect on states within the same region, leading to comparable changes in various economic indicators.
+In conclusion, based on the provided summary statistics, it can be inferred that although the economic effects of COVID-19 varied among states, there are consistent changes at the economic region level. This indicates that the economic impact of the pandemic had a similar effect on the regions, leading to comparable changes in various economic indicators.
 
 
 
