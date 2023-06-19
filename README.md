@@ -283,6 +283,8 @@ Lastly, the tax revenue analysis shows that most states experienced a positive c
 
 In conclusion, based on the provided summary statistics, it can be inferred that although the economic effects of COVID-19 varied among states, there are consistent changes at the economic region level. This indicates that the economic impact of the pandemic had a similar effect on the regions, leading to comparable changes in various economic indicators.
 
+There are a few limitations to acknowledge in this data analysis project. Firstly, the inability to calculate the exact measure of error and standard error arises because the data comes from various sources that have not disclosed their error rates. Secondly, although most of the data used are derived from government sources, they are aggregated or summarized, restricting the assessment of statistical significance in the analysis. This limitation can be addressed in future projects to delve deeper into statistical analysis.
+
 
 
 ## References:
