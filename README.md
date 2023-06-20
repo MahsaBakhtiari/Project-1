@@ -299,6 +299,8 @@ There are a few limitations to acknowledge in this data analysis project. Firstl
 * Census: [https://www.census.gov/](https://www.census.gov/)
    
 * Zillow: [https://www.zillow.com/research/data/](https://www.zillow.com/research/data/)
+
+* CDC: [https://data.cdc.gov/Case-Surveillance/Weekly-United-States-COVID-19-Cases-and-Deaths-by-/pwn4-m3yp](https://data.cdc.gov/Case-Surveillance/Weekly-United-States-COVID-19-Cases-and-Deaths-by-/pwn4-m3yp)
    
 
 
