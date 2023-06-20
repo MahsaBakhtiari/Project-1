@@ -1,3 +1,6 @@
+> **Note**
+> Content and visualizations for 3.3  will be updated by Daniel Wallach shortly
+
 # Unveiling the Economic Fallout: A Comprehensive Analysis of the COVID-19 Impact on the United States
 
 ## Summary:
@@ -78,11 +81,7 @@ The bubble chart reveals a mixed impact of the pandemic across different industr
 
 ### 3.3.1
 
-As the number of COVID-19 cases and deaths increased, the economy faced significant challenges, resulting in fluctuations in employment and unemployment rates.
 
-During periods of surging COVID-19 cases and deaths, which surged progrossively from March 2020 through May 2022 there was a notable negative impact on the employment rate. Increase in cases is more strongly correlated with increase actual deaths.
-
-From May 2022 onwards, both cases and deaths begin to decrease. The employment and unemployment rate begin to respective increase and decrease from this point, however the however the difference does not return employment to pre-pandemic levels.
 
 ### 3.4.1
 
