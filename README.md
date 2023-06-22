@@ -1,6 +1,3 @@
-> **Note**
-> Content and visualizations for 3.3  will be updated by Daniel Wallach shortly
-
 # Unveiling the Economic Fallout: A Comprehensive Analysis of the COVID-19 Impact on the United States
 
 ## Summary:
@@ -81,7 +78,19 @@ The bubble chart reveals a mixed impact of the pandemic across different industr
 
 ### 3.3.1
 
+![3.3.1 - Fig.1](https://github.com/Daniel-Wallach/Project-1/blob/main/3.3/Visualizations/Cases_vs_Employment.png)
 
+![3.3.1 - Fig.2](https://github.com/Daniel-Wallach/Project-1/blob/main/3.3/Visualizations/Cases_vs_Unemployment.png)
+
+### 3.3.2
+
+![3.3.2 - Fig.1](https://github.com/Daniel-Wallach/Project-1/blob/main/3.3/Visualizations/Deaths_vs_Employment.png)
+
+![3.3.2 - Fig.2](https://github.com/Daniel-Wallach/Project-1/blob/main/3.3/Visualizations/Deaths_vs_Unemployment.png)
+
+The timeseries data for Covid-19 cases and deaths from Jan 2020 - Apr 2023 and total employment/unenployment by population from Jan 2018 - Apr 2023 shows an expected sharp negative effect on employment from Mar - Apr 2020 coinciding with the initial rise in case and death rates. However, as total cases and deaths continued to steadily rise, employment did not follow suit, begining a slow but definite increase until appropaching pre-pandemic levels between Oct 2021 - Jan 2022, with employment slightly surpassing them in April 2023.
+
+---
 
 ### 3.4.1
 
@@ -257,9 +266,9 @@ In conclusion, Accommodation and Food Services, and Arts, Entertainment, and Rec
 
 ### 3.3 Impact of Covid-19 Cases and Deaths on Employment Nationally
 
-Many businesses had to implement restrictions and closures to curb the spread of the COVID-19, leading to layoffs and reduced hiring activity. Consequently, the unemployment rate increased during these periods as more individuals were seeking job opportunities but struggled to find employment. As the rate of increase of cases and to a lesser extend deaths slowed, the employment rate improved as businesses resumed operations, restrictions were eased, and hiring activity increased, resulting in a decline in the unemployment rate as more individuals found employment.
+Many businesses had to implement restrictions and closures to curb the spread of the COVID-19, leading to layoffs and reduced hiring activity. Consequently, the unemployment rate increased during these periods as more individuals were seeking job opportunities but struggled to find employment. However, as the rate of increase of cases deaths progressed, the employment rate actually improved steadily after their initial sharp decline.
 
-Overall, the relationship between COVID-19 cases and deaths and the employment and unemployment rates in the USA demonstrates how the pandemic has had a significant impact on the nation's economy. The fluctuation in employment and unemployment rates reflects the ebb and flow of the pandemic's impact directly, as well as the effect of secondary factors including government and private-sector responses to the rising cases and deaths. This highlights the ongoing struggle to balance public health measures with economic stability.
+Although there is an initial _correlation_ in the early stages of the pandemic, the progression of the data indicates that no direct relationship between Covid-19 case/death numbers and employment rates. It is likely that gpublic policy and private-sector responses to the pandemic were and continue to be main influencing factors on the employment rate. This highlights the ongoing struggle to balance public health measures and private business practices with economic stabilitys.
 
 ## 3.4 Regional Variations in Economic Impact
 
@@ -282,7 +291,7 @@ Lastly, the tax revenue analysis shows that most states experienced a positive c
 
 In conclusion, based on the provided summary statistics, it can be inferred that although the economic effects of COVID-19 varied among states, there are consistent changes at the economic region level. This indicates that the economic impact of the pandemic had a similar effect on the regions, leading to comparable changes in various economic indicators.
 
-There are a few limitations to acknowledge in this data analysis project. Firstly, the inability to calculate the exact measure of error and standard error arises because the data comes from various sources that have not disclosed their error rates. Secondly, although most of the data used are derived from government sources, they are aggregated or summarized, restricting the assessment of statistical significance in the analysis. This limitation can be addressed in future projects to delve deeper into statistical analysis.
+There are a few limitations to acknowledge in this data analysis project. Firstly, the inability to calculate the exact measure of error and standard error arises because the data comes from various sources that have not disclosed their error rates. Secondly, although most of the data used are derived from government sources, they are aggregated or summarized, restricting the assessment of statistical significance in the analysis. A further limitation relates to the scope of our data - we have not included demographics, which would likely provide insight into employment statistics specifically. These limitations can be addressed in future projects to delve deeper into statistical analysis.
 
 
 
@@ -300,7 +309,3 @@ There are a few limitations to acknowledge in this data analysis project. Firstl
 * Zillow: [https://www.zillow.com/research/data/](https://www.zillow.com/research/data/)
 
 * CDC: [https://data.cdc.gov/Case-Surveillance/Weekly-United-States-COVID-19-Cases-and-Deaths-by-/pwn4-m3yp](https://data.cdc.gov/Case-Surveillance/Weekly-United-States-COVID-19-Cases-and-Deaths-by-/pwn4-m3yp)
-   
-
-
-
