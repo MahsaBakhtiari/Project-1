@@ -10,7 +10,7 @@ The COVID-19 pandemic has profoundly impacted the global and United States econo
   - 3.1 Impact of COVID-19 on GDP Growth
   - 3.2 Sectoral Performance during the Pandemic
   - 3.3 Correlation between Unemployment Rates and COVID-19 Cases
-  - 3.4 Regional Variations in Economic Impact
+  - 3.4 Regional Variations in Economic Impact [(Mahsa Bakhtiari)](https://github.com/MahsaBakhtiari)
 - References
 
 ## 1. Introduction:
