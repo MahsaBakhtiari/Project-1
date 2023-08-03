@@ -1,4 +1,4 @@
-# Unveiling the Economic Fallout: A Comprehensive Analysis of the COVID-19 Impact on the United States
+# Unveiling the Economic Fallout: Analysis of the COVID-19 Impact on the United States
 
 ## Summary:
 The COVID-19 pandemic has profoundly impacted the global and United States economy. This analysis report aims to provide a comprehensive assessment of the economic effects of the pandemic on various aspects of the U.S. economy. By analyzing key indicators such as GDP growth, sectoral performance, unemployment rates, and regional variations, we offer valuable insights to help policymakers, businesses, and individuals navigate the economic challenges during and after the pandemic.
